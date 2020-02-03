@@ -13,4 +13,4 @@ qui va runner config.ru avec un serveur dynamique sur le port 4567 :
 Fonctionnalités attendues :
     La page d'accueil du site affichera tous les potins que nous avons en base (http://localhost:4567/)
     Cette page d'accueil donnera un lien pour un formulaire où quiconque pourra ajouter un potin en base (http://localhost:4567/gossips/new/)
-    Chaque potin aura une page dédiée (exemple pour le potin n°3 : http://localhost:4567/gossip/3)
+    Chaque potin aura une page dédiée (exemple pour le potin n°3 : http://localhost:4567/gossip/3) <- JE SUIS BLOQUE ICI
